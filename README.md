@@ -1,4 +1,5 @@
 # projects
 project-deatails
 <br>
-auther:dhanashri dhekale
+auther:dhanashri dhekale(student at DYP)
+
